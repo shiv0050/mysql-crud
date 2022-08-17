@@ -1,1 +1,1 @@
-# mern-crud-jwt
+# mysql-crud
